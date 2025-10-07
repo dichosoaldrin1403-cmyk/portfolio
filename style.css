@@ -361,7 +361,7 @@ a:visited {
 .myname{
   color: #fffafb;
   font-family: "Akira";
-  font-size: 7vw;
+  font-size: 100vw;
   letter-spacing: 0.2vw;
   margin: 0vw 0vh;
   line-height: 0.85em;
@@ -653,3 +653,4 @@ a:visited {
   text-decoration: none;
 
 }
+
