@@ -266,7 +266,9 @@ a:visited {
   list-style: none;
   color: ghostwhite;
   font-size: 3vh;
-  font-family: "";
+  font-weight: 800;
+  white-space: nowrap;
+  font-family: 'Syne', sans-serif !important;
 }
 
 .flexbox{
@@ -360,6 +362,8 @@ a:visited {
 
 .myname{
   color: #fffafb;
+  font-weight: 800;
+  white-space: nowrap;
   font-family: 'Syne', sans-serif !important;
   font-size: 7vw;
   letter-spacing: 0.2vw;
@@ -606,6 +610,8 @@ a:visited {
 
 .game h1{
   color: #fffafb;
+  font-weight: 800;
+  white-space: nowrap;
   font-family: 'Syne', sans-serif !important;
   font-size: 6vw;
   letter-spacing: 0.2vw;
@@ -636,6 +642,8 @@ a:visited {
 
 .four h1,h2{
   color: #fffafb;
+  font-weight: 800;
+  white-space: nowrap;
   font-family: 'Syne', sans-serif !important;
   font-size: 6vw;
   letter-spacing: 0.2vw;
@@ -653,6 +661,7 @@ a:visited {
   text-decoration: none;
 
 }
+
 
 
 
